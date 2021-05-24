@@ -6,7 +6,7 @@ I just edited the work of LASZCZ (https://www.pling.com/p/1202116/)
 
 Edits from original :
 - Scaled it to 1080p.
-- Added some loading frames to complete the progress bar cicle.
+- Added some loading frames to complete the progress bar cycle.
 - Translated the copyright to english.
 - Moved the progress bar down a little to match the original XP loading screen.
 
