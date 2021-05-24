@@ -14,7 +14,7 @@ if ( Plymouth.GetMode () == "boot" )
     progress_box.image = Image("throbber-" + progress + ".png");
     progress_box.sprite = Sprite();
     progress_box.x = Window.GetWidth() / 2 - progress_box.image.GetWidth()  / 2 - 2;
-    progress_box.y = Window.GetHeight() / 2 - progress_box.image.GetHeight() / 2 + 117;
+    progress_box.y = Window.GetHeight() / 2 - progress_box.image.GetHeight() / 2 + 240;
     progress_box.sprite.SetPosition(progress_box.x, progress_box.y, 0);
     progress_box.sprite.SetImage(progress_box.image);
   }
