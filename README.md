@@ -10,3 +10,8 @@ Edits from original :
 
 Just run `./install` to install it.
 You can run `./test-plymouth` to display the current bootsplash theme.
+
+
+## Screenshot
+
+![Screenshot](./screenshot.png "Screenshot")
