@@ -1,5 +1,7 @@
 # WindozeXP 1080 Plymouth theme
 
+## Disclaimer
+
 I just edited the work of LASZCZ (https://www.pling.com/p/1202116/)
 
 Edits from original :
@@ -8,9 +10,10 @@ Edits from original :
 - Translated the copyright to english.
 - Moved the progress bar down a little to match the original XP loading screen.
 
+## Installation
+
 Just run `./install` to install it.
 You can run `./test-plymouth` to display the current bootsplash theme.
-
 
 ## Screenshot
 
